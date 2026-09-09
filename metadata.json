@@ -1,0 +1,6 @@
+{
+  "name": "ذاكرة الدماغ",
+  "description": "تطبيق دراسي معرفي مبتكر بأساليب دماغية متقدمة لحفظ واسترجاع المعلومات",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
